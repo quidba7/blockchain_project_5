@@ -16,26 +16,26 @@ Web3.js v1.5.3
 1. cd into project repro & install modules
 
 ```
-    npm install
+npm install
 ```
 
 2. Compile Contracts
 
 ```
-    cd eth-contracts
-    truffle compile
+cd eth-contracts
+truffle compile
 ```
 
 1. Start ganache (CLI or GUI)
 
 ```
-    ganache-cli -l 8000000 -p 8545 -m "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat"
+ganache-cli -l 8000000 -p 8545 -m "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat"
 ```
 
 2. Migrate locally
 
 ```
-    truffle migrate --network development --reset
+truffle migrate --network development --reset
 ```
 
 #### Testing contracts
@@ -47,7 +47,7 @@ File: TestERC721Mintable.js
 Test minting functionality of tokens and transfer of tokens.
 
 ```
-    truffle test ./test/TestERC721Mintable.js
+truffle test ./test/TestERC721Mintable.js
 ```
 
 Test zkSnarks
@@ -57,7 +57,7 @@ File: TestSquareVerifier.js
 Verifies zkSnarks is successfully implemented.
 
 ```
-    truffle test ./test/TestSquareVerifier.js
+truffle test ./test/TestSquareVerifier.js
 ```
 
 Testing ERC721 token with zkSnarks
@@ -66,7 +66,7 @@ File: TestSolnSquareVerifier.js
 
 Test minting with zkSnarks.
 ```
-    truffle test ./test/TestSolnSquareVerifier.js
+truffle test ./test/TestSolnSquareVerifier.js
 ```
 
 ## Write-up
