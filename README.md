@@ -1,25 +1,42 @@
-# Udacity Blockchain Capstone
+# Udacity Blockchain Capstone: Puy du Sapt real estate project
 
-The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
+The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product, named Puy du Sapt, for real estate properties in Auvergne France.
+
+## Libraries
+
+```
+Truffle v5.4.24 (core: 5.4.24)
+Solidity v0.5.16 (solc-js)
+Node v12.0.0
+Web3.js v1.5.3
+```
 
 ## Quick Start Deploying to Ganache and Testing
 
 1. cd into project repro & install modules
 
+```
     npm install
+```
 
 2. Compile Contracts
-    cd eth-contracts
 
+```
+    cd eth-contracts
     truffle compile
+```
 
 1. Start ganache (CLI or GUI)
 
+```
     ganache-cli -l 8000000 -p 8545 -m "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat"
+```
 
-2. Mirgrate locally
+2. Migrate locally
 
+```
     truffle migrate --network development --reset
+```
 
 #### Testing contracts
 
@@ -29,7 +46,9 @@ File: TestERC721Mintable.js
 
 Test minting functionality of tokens and transfer of tokens.
 
+```
     truffle test ./test/TestERC721Mintable.js
+```
 
 Test zkSnarks
 
@@ -37,15 +56,18 @@ File: TestSquareVerifier.js
 
 Verifies zkSnarks is successfully implemented.
 
+```
     truffle test ./test/TestSquareVerifier.js
+```
 
 Testing ERC721 token with zkSnarks
 
 File: TestSolnSquareVerifier.js
 
 Test minting with zkSnarks.
-
+```
     truffle test ./test/TestSolnSquareVerifier.js
+```
 
 ## Write-up
 
