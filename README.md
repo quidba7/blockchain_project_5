@@ -4,61 +4,61 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 ## Write-up
 
-[Contract address](https://rinkeby.etherscan.io/address/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/)
-[Contract ABI's](https://github.com/quidba7/blockchain_project_5/build/SoldnSquareVerifier.json/)
-[OpenSea market place store front link](https://testnets.opensea.io/collection/maison-du-puy-du-sapt/)
+  [Contract address](https://rinkeby.etherscan.io/address/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/)
+  [Contract ABI's](https://github.com/quidba7/blockchain_project_5/build/SoldnSquareVerifier.json/)
+  [OpenSea market place store front link](https://testnets.opensea.io/collection/maison-du-puy-du-sapt/)
 
 
 ## Mint 10 contracts using myetherwallet.com
 
-[Token 1](https://rinkeby.etherscan.io/tx/0x7385a13e90ae2f05505f77aa2d48063b509ea9b5fdec5d7962191cc3b247390f)
-[Token 2](https://rinkeby.etherscan.io/tx/0x1e462b6d7ec21ba2da11919bdc0bd234672a3dfbc17ca95f8c5e0cd5887306e0)
-[Token 3](https://rinkeby.etherscan.io/tx/0x00382a5b7e67497d45ca5895c9ee364bb62e868bbc1458d254a985c9916062cd)
-[Token 4](https://rinkeby.etherscan.io/tx/0x854361dc8177b187c5be46291a77c62551f7317ae8b808747d2a88479cc58671)
-[Token 5](https://rinkeby.etherscan.io/tx/0xacc2633eb19da81675f7dc420a8e0ad1edceb52126290e839baf2406317eaed1)
-[Token 6](https://rinkeby.etherscan.io/tx/0x772e2914f5d412e42e4248b1c86d183de0cea61652301b3add063e50cb95a969)
-[Token 7](https://rinkeby.etherscan.io/tx/0xade8301bcaf4d320248adf1e78161f782d912d92c57d043658283f58b9de103e)
-[Token 8](https://rinkeby.etherscan.io/tx/0x419f95b93ec3ebd531be1eb644cd55c49d54586fd586a27a1f171352c5bcc8d4)
-[Token 9](https://rinkeby.etherscan.io/tx/0xce40d207c9add7620bf2421311a861b00639b102b98d407030a20ee7517f9174)
-[Token 10](https://rinkeby.etherscan.io/tx/0x4f53cabf40b71ad9c0b87fd40eb9701a3eb9738374b50fd1ec8d74a09935afd3)
+  [Token 1](https://rinkeby.etherscan.io/tx/0x7385a13e90ae2f05505f77aa2d48063b509ea9b5fdec5d7962191cc3b247390f)
+  [Token 2](https://rinkeby.etherscan.io/tx/0x1e462b6d7ec21ba2da11919bdc0bd234672a3dfbc17ca95f8c5e0cd5887306e0)
+  [Token 3](https://rinkeby.etherscan.io/tx/0x00382a5b7e67497d45ca5895c9ee364bb62e868bbc1458d254a985c9916062cd)
+  [Token 4](https://rinkeby.etherscan.io/tx/0x854361dc8177b187c5be46291a77c62551f7317ae8b808747d2a88479cc58671)
+  [Token 5](https://rinkeby.etherscan.io/tx/0xacc2633eb19da81675f7dc420a8e0ad1edceb52126290e839baf2406317eaed1)
+  [Token 6](https://rinkeby.etherscan.io/tx/0x772e2914f5d412e42e4248b1c86d183de0cea61652301b3add063e50cb95a969)
+  [Token 7](https://rinkeby.etherscan.io/tx/0xade8301bcaf4d320248adf1e78161f782d912d92c57d043658283f58b9de103e)
+  [Token 8](https://rinkeby.etherscan.io/tx/0x419f95b93ec3ebd531be1eb644cd55c49d54586fd586a27a1f171352c5bcc8d4)
+  [Token 9](https://rinkeby.etherscan.io/tx/0xce40d207c9add7620bf2421311a861b00639b102b98d407030a20ee7517f9174)
+  [Token 10](https://rinkeby.etherscan.io/tx/0x4f53cabf40b71ad9c0b87fd40eb9701a3eb9738374b50fd1ec8d74a09935afd3)
 
 ## Create items in Opensea
 
-[Collection of NFT contract](https://testnets.opensea.io/collection/maison-du-puy-du-sapt)
-[OpenSea PDS market place item 1](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/1)
-[OpenSea PDS market place item 2](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/2)
-[OpenSea PDS market place item 3](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/3)
-[OpenSea PDS market place item 4](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/4)
-[OpenSea PDS market place item 5](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/5)
-[OpenSea PDS market place item 6](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/6)
-[OpenSea PDS market place item 7](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/7)
-[OpenSea PDS market place item 8](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/8)
-[OpenSea PDS market place item 9](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/9)
-[OpenSea PDS market place item 10](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/10)
+  [Collection of NFT contract](https://testnets.opensea.io/collection/maison-du-puy-du-sapt)
+  [OpenSea PDS market place item 1](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/1)
+  [OpenSea PDS market place item 2](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/2)
+  [OpenSea PDS market place item 3](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/3)
+  [OpenSea PDS market place item 4](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/4)
+  [OpenSea PDS market place item 5](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/5)
+  [OpenSea PDS market place item 6](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/6)
+  [OpenSea PDS market place item 7](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/7)
+  [OpenSea PDS market place item 8](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/8)
+  [OpenSea PDS market place item 9](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/9)
+  [OpenSea PDS market place item 10](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/10)
 
 ## List items for sale
 
-[Set Approval For All method](https://rinkeby.etherscan.io/tx/0xc6550b91731491784879f6cc0dccbc42522ff9ed10ee03b210b57c47d5e1395a)
+  [Set Approval For All method](https://rinkeby.etherscan.io/tx/0xc6550b91731491784879f6cc0dccbc42522ff9ed10ee03b210b57c47d5e1395a)
 
 ## Sell 5 contracts in Opensea
 
-[OpenSea PDS market place item 5](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/5)
-[OpenSea PDS market place item 6](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/6)
-[OpenSea PDS market place item 7](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/7)
-[OpenSea PDS market place item 8](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/8)
-[OpenSea PDS market place item 9](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/9)
-[OpenSea PDS market place item 10](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/10)
+  [OpenSea PDS market place item 5](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/5)
+  [OpenSea PDS market place item 6](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/6)
+  [OpenSea PDS market place item 7](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/7)
+  [OpenSea PDS market place item 8](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/8)
+  [OpenSea PDS market place item 9](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/9)
+  [OpenSea PDS market place item 10](https://testnets.opensea.io/assets/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/10)
 
 ## Buy 5 contracts in Opensea
 
 Purchase account: 0x183C7cE2bad24ED4a266E01eC343B15c215EF11F
 
-[OpenSea PDS market place item 5](https://rinkeby.etherscan.io/tx/0xc32a4f79d37629d3dfd26a06f8b447388cb952a57c636a0d82cce186aa871b8c)
-[OpenSea PDS market place item 6](https://rinkeby.etherscan.io/tx/0xc0190e70c38c75fc0b02c5d0ba98cedda524fd6858bd698fa1a56c5d0b06d547)
-[OpenSea PDS market place item 7](https://rinkeby.etherscan.io/tx/0x446f71582d4eb906efccfdb991225bb09a346a8ed4fcd9b7fdb393b1bb16c021)
-[OpenSea PDS market place item 8](https://rinkeby.etherscan.io/tx/0x393e6c5c2479f4fd2d5a05bc260831bf7785212985a639055c3bcd8b3edbb1ad)
-[OpenSea PDS market place item 9](https://rinkeby.etherscan.io/tx/0xd6434b74677a71f13fe96441209583bc86dcc308c0d964b8dfda8b5392589747)
-[OpenSea PDS market place item 10](https://rinkeby.etherscan.io/tx/0x8cfd77f4a18e888cdb323ae7d03e602ea6b4dd2aba7b60c6d3bdb2c32a7d714e)
+  [OpenSea PDS market place item 5](https://rinkeby.etherscan.io/tx/0xc32a4f79d37629d3dfd26a06f8b447388cb952a57c636a0d82cce186aa871b8c)
+  [OpenSea PDS market place item 6](https://rinkeby.etherscan.io/tx/0xc0190e70c38c75fc0b02c5d0ba98cedda524fd6858bd698fa1a56c5d0b06d547)
+  [OpenSea PDS market place item 7](https://rinkeby.etherscan.io/tx/0x446f71582d4eb906efccfdb991225bb09a346a8ed4fcd9b7fdb393b1bb16c021)
+  [OpenSea PDS market place item 8](https://rinkeby.etherscan.io/tx/0x393e6c5c2479f4fd2d5a05bc260831bf7785212985a639055c3bcd8b3edbb1ad)
+  [OpenSea PDS market place item 9](https://rinkeby.etherscan.io/tx/0xd6434b74677a71f13fe96441209583bc86dcc308c0d964b8dfda8b5392589747)
+  [OpenSea PDS market place item 10](https://rinkeby.etherscan.io/tx/0x8cfd77f4a18e888cdb323ae7d03e602ea6b4dd2aba7b60c6d3bdb2c32a7d714e)
 
 ## Compile / Deployment
 
