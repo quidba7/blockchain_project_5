@@ -72,7 +72,7 @@ truffle test ./test/TestSolnSquareVerifier.js
 ## Write-up
 
 * [Contract address](https://rinkeby.etherscan.io/address/0x6cc2E1fD602080E148B355fDBdCe68B35D78eAA8/)
-* [Contract ABI's](https://github.com/quidba7/blockchain_project_5/build/SolnSquareVerifier.json/)
+* [Contract ABI's](https://github.com/quidba7/blockchain_project_5/blob/master/eth-contracts/build/contracts/SolnSquareVerifier.json/)
 * [OpenSea market place store front link](https://testnets.opensea.io/collection/maison-du-puy-du-sapt/)
 
 
